@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tyash71
-- 👀 I’m interested in developing my Problem Solving skills
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m @Yashdeep Jain
+- 👀 I’m interested in developing my Problem Solving skills , Open Source 
+- 🌱 I’m currently learning System Design , contributing in Open Source Communities to level up adaptibility.
 - 💞️ I’m looking to collaborate on ( Right now nothing )
-- 📫 How to reach me @yashuofficial7@gmail.com
+- 📫 How to reach me @yashuofficial7@gmail.com , Linkedin (mentioned in profile)
 
 <!---
 tyash71/tyash71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
